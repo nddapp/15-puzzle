@@ -1,0 +1,1 @@
+import{d as o,f as i,e as t,a as c,u as a,_ as m,o as u,G as l}from"./index.9ea38870.js";const _=o({__name:"ContestPlay",props:{mapSize:null,pin:null},setup(e){const{mapSize:s}=e,{isValid:n,mapSpec:p}=i(s,{gridRows:5,gridCols:3});return n||t().push({path:"/"}),(r,d)=>(u(),c(m,{mode:a(l).CONTEST,"map-spec":a(p),pin:e.pin},null,8,["mode","map-spec","pin"]))}});export{_ as default};
